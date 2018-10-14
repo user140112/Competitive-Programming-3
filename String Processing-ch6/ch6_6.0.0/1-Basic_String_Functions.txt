@@ -1,0 +1,14 @@
+String in c++ is basically a string class.
+
+Note: If you see two integer parameter in string functions, first integer indicates that
+      pos (i.e. starting index) and second integer indicate len (i.e. number of characters).
+
+Example:
+     string str1="Blockchain is the new technology of trust";
+     string str2=str1.substr(18,3);
+
+     Here,substr function assign "new" word in str1 variable.The two integers parameter of
+     substr is 18 and 3.
+     
+     18 = starting index of string str1.
+     3 =  Number of characters have to copy from str1 to str2.
