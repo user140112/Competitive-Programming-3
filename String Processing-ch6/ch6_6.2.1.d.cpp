@@ -1,6 +1,6 @@
 /**
-Following program, we can check whether a string start with 7 dots or not.
-If the string start with 7 dots, we will break the program.
+Following program, we can check whether a string starts with 7 dots or not.
+If the string starts with 7 dots, we will break the program.
 **/
 
 #include<bits/stdc++.h>
